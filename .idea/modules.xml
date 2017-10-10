@@ -8,6 +8,7 @@
       <module fileurl="file://$PROJECT_DIR$/04_ccalljava/04_ccalljava.iml" filepath="$PROJECT_DIR$/04_ccalljava/04_ccalljava.iml" />
       <module fileurl="file://$PROJECT_DIR$/05_ccalljava/05_ccalljava.iml" filepath="$PROJECT_DIR$/05_ccalljava/05_ccalljava.iml" />
       <module fileurl="file://$PROJECT_DIR$/06_mtxx/06_mtxx.iml" filepath="$PROJECT_DIR$/06_mtxx/06_mtxx.iml" />
+      <module fileurl="file://$PROJECT_DIR$/07_guolu/07_guolu.iml" filepath="$PROJECT_DIR$/07_guolu/07_guolu.iml" />
       <module fileurl="file://$PROJECT_DIR$/NdkDemo.iml" filepath="$PROJECT_DIR$/NdkDemo.iml" />
     </modules>
   </component>

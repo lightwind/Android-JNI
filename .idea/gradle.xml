@@ -15,6 +15,7 @@
             <option value="$PROJECT_DIR$/05_ccalljava" />
             <option value="$PROJECT_DIR$/06_mtxx" />
             <option value="$PROJECT_DIR$/07_guolu" />
+            <option value="$PROJECT_DIR$/08_uninstall" />
           </set>
         </option>
         <option name="resolveModulePerSourceSet" value="false" />

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/01_app/01_app.iml" filepath="$PROJECT_DIR$/01_app/01_app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/02_javacallc/02_javacallc.iml" filepath="$PROJECT_DIR$/02_javacallc/02_javacallc.iml" />
+      <module fileurl="file://$PROJECT_DIR$/03_ccalljava/03_ccalljava.iml" filepath="$PROJECT_DIR$/03_ccalljava/03_ccalljava.iml" />
+      <module fileurl="file://$PROJECT_DIR$/04_ccalljava/04_ccalljava.iml" filepath="$PROJECT_DIR$/04_ccalljava/04_ccalljava.iml" />
+      <module fileurl="file://$PROJECT_DIR$/05_ccalljava/05_ccalljava.iml" filepath="$PROJECT_DIR$/05_ccalljava/05_ccalljava.iml" />
+      <module fileurl="file://$PROJECT_DIR$/06_mtxx/06_mtxx.iml" filepath="$PROJECT_DIR$/06_mtxx/06_mtxx.iml" />
+      <module fileurl="file://$PROJECT_DIR$/NdkDemo.iml" filepath="$PROJECT_DIR$/NdkDemo.iml" />
+    </modules>
+  </component>
+</project>

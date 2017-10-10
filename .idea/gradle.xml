@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="distributionType" value="DEFAULT_WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/01_app" />
+            <option value="$PROJECT_DIR$/02_javacallc" />
+            <option value="$PROJECT_DIR$/03_ccalljava" />
+            <option value="$PROJECT_DIR$/04_ccalljava" />
+            <option value="$PROJECT_DIR$/05_ccalljava" />
+            <option value="$PROJECT_DIR$/06_mtxx" />
+          </set>
+        </option>
+        <option name="resolveModulePerSourceSet" value="false" />
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>
